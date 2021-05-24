@@ -7,7 +7,7 @@
 * I’m currently learning JavaSrcipt and PHP.
 * I'm looking for a job as web developer.
 * You can find an examples of my work [here](https://bit.ly/3bSX83T).
-* You can reach me on [linkedin](https://bit.ly/34a330a) or on github.
+* You can reach me on [linkedin](https://bit.ly/34a330a) or message me in [telegram](t.me/evg13ny).
 
 
 <!---
