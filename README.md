@@ -6,8 +6,8 @@
 * Hi, I’m Evgeny, a web developer from Russia.
 * I’m currently learning JavaSrcipt and PHP.
 * I'm looking for a job as web developer.
-* You can find an examples of my work [here](https://bit.ly/3bSX83T).
-* You can reach me on [linkedin](https://bit.ly/34a330a) or message me in [telegram](t.me/evg13ny).
+* You can find an examples of my work [here](github.com/evg13ny/examples).
+* You can reach me on [linkedin](linkedin.com/in/evg13ny-polyakov) or message me in [telegram](t.me/evg13ny).
 
 
 <!---
