@@ -5,7 +5,7 @@
 <!--- - 📫 How to reach me ... --->
 * Hi, I’m Evgeny, a web developer from Russia.
 * I’m currently learning JavaSrcipt and PHP.
-* You can find an examples of my work [here](github.com/evg13ny/examples).
+* You can find an examples of my work [here](https://github.com/evg13ny/examples/).
 * You can reach me on [linkedin](linkedin.com/in/evg13ny-polyakov) or message me in [telegram](t.me/evg13ny).
 
 
