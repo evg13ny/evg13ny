@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 * Hi, I’m Evgeny, a web developer from Russia.
-* My stack: PHP, Laravel, JavaScript.
+* My stack: JavaScript, Java, PHP, Laravel.
 * You can find an examples of my work [here](https://github.com/evg13ny/examples/).
 * You can reach me on <a href="https://www.linkedin.com/in/evg13ny-polyakov/" target="_blank">linkedin</a> or message me in <a href="https://t.me/evg13ny" target="_blank">telegram</a>.
 
