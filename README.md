@@ -16,11 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/evg13ny-polyakov/" target="_blank">
+    <a href="https://www.linkedin.com/in/evg13ny-polyakov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/evg13ny" target="_blank">
+    <a href="https://t.me/evg13ny">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
 </div>
+
+### 🚀🧑‍💻 About Me :
