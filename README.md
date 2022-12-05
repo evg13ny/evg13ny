@@ -50,11 +50,11 @@ ___
 
 ___
 
-### :writing_hand: [My works](https://github.com/evg13ny/examples/)
+### :writing_hand: [My works](https://github.com/evg13ny/examples/) :
 
 ___
 
-### My stat
+### 🔢 My stat :
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evg13ny&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evg13ny&theme=github_dark"/>
