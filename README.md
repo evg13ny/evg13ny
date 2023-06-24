@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ___
 	
 ### 🚀💻 About Me :
-Hi, I’m Evgeny, a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer.
+Hi, I’m Evgeny, QA Engineer & Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer.
 
 ___
 
