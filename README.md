@@ -9,11 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="social" align="center">
-	<!---
-	<a href="https://www.linkedin.com/in/evg13ny-polyakov/">
+	<a href="https://www.linkedin.com/in/evgeny13polyakov">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 	</a>
-	--->
 	<a href="https://t.me/evg13ny">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
 	</a>
